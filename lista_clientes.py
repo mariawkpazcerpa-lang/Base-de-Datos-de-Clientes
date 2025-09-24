@@ -317,10 +317,10 @@ def actualizar_cliente():
 
                     case 2:
                         nuevo_apellido = input(colorama.Fore.CYAN + "Ingrese el nuevo Apellido del cliente: " + colorama.Style.RESET_ALL).strip().capitalize()
-                        actualizar_apellido(id_cliente, nuevo_apellido,)
                         if not nuevo_apellido:
                             print(colorama.Fore.RED + "[ERROR] El Apellido no puede estar vacío." + colorama.Style.RESET_ALL)
                             continue
+                        actualizar_apellido(id_cliente, nuevo_apellido,)
                         break 
 
                     case 3:
@@ -435,5 +435,6 @@ def menu():
 
                     case 6:
                         break
+
 
 menu()
