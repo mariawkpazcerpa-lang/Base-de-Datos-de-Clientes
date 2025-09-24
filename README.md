@@ -33,10 +33,11 @@ Este es un proyecto de consola en **Python** que implementa un sistema CRUD (Cre
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/mariawkpazcerpa-lang/Base-de-Datos-de-Clientes.git
+´´´
+
 
 Entrar en la carpeta:
 cd Base-de-Datos-de-Clientes
-
 
 (Opcional) Crear un entorno virtual:
 python -m venv venv
