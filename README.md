@@ -49,5 +49,13 @@ Instalar dependencias:
 pip install -r requirements.txt
 
 
+ Repositorio de código
+Código completo: https://github.com/mariawkpazcerpa-lang/Base-de-Datos-de-Clientes
+
+📬 Contacto
+Email: mariawkpazcerpa@gmail.com
+
+LinkedIn: María de la Paz Cerpa
+
 Ejecutar el programa:
 python lista_clientes.py
