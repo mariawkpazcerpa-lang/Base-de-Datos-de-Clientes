@@ -64,24 +64,6 @@ python lista_clientes.py
 
 ✒️ Autora
 María de la Paz Cerpa - Estudiante de Ingeniería Informática.
-LinkedIn: ⚙️ Instalación Local
-Si prefieres ejecutarlo en tu máquina:
-
-Clonar el repositorio:
-
-Bash
-git clone [https://github.com/mariawkpazcerpa-lang/Base-de-Datos-de-Clientes.git](https://github.com/mariawkpazcerpa-lang/Base-de-Datos-de-Clientes.git)
-cd Base-de-Datos-de-Clientes
-Instalar dependencias:
-
-Bash
-pip install -r requirements.txt
-Ejecutar:
-
-Bash
-python lista_clientes.py
-✒️ Autora
-María de la Paz Cerpa - Estudiante de Ingeniería Informática.
 Mail: mariawkpazcerpa@gmail.com
 LinkedIn: María de la Paz Cerpa
 
